@@ -1,6 +1,7 @@
 {
     "name": "Realm iOS Repo",
     "identifier": "com.realmios.repo",
+    "iconURL" : "https://i.imgur.com/jo4r5kP.png",
     "apps": [
         {
             "bundleIdentifier": "app.ish.iSH",
