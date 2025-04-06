@@ -1,7 +1,7 @@
 {
     "name": "Realm iOS Repo",
     "identifier": "com.realmios.repo",
-    "iconURL" : "https://i.imgur.com/jo4r5kP.png",
+    "iconURL": "https://i.imgur.com/jo4r5kP.png",
     "apps": [
         {
             "bundleIdentifier": "com.tigisoftware.Filza",
@@ -19,7 +19,7 @@
             "versionDescription": "Full Active",
             "downloadURL": "https://github.com/realmios/Realm-iOS-Repo/releases/download/ipa/Filza_4.0.0_Crack.ipa",
             "size": 13900000
-        };
+        },
         {
             "bundleIdentifier": "com.tigisoftware.Filza",
             "name": "Filza",
