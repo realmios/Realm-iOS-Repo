@@ -4,21 +4,21 @@
     "iconURL" : "https://i.imgur.com/jo4r5kP.png",
     "apps": [
         {
-            "bundleIdentifier": "app.ish.iSH",
-            "name": "iSH",
+            "bundleIdentifier": "com.tigisoftware.Filza",
+            "name": "Filza",
             "developerName": "Theodore Dubois and contributors",
-            "iconURL": "https://ish.app/assets/icon-full.png",
+            "iconURL": "https://filzadownload.com/wp-content/uploads/2019/06/icon.png",
             "tintColor": "000000",
-            "subtitle": "Linux shell for iOS",
-            "localizedDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
+            "subtitle": "FizaCrack",
+            "localizedDescription": "Filza full active by Realm iOS",
             "screenshotURLs": [
-                "https://ish.app/assets/front-iphone-full.png"
+                "https://mrepo.org/image/filzafilemanager4.png"
             ],
-            "version": "Build 772",
-            "versionDate": "2025-03-29T06:09:17+00:00",
-            "versionDescription": "Automated daily build",
-            "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/772/iSH.ipa",
-            "size": 4565229
+            "version": "4.0",
+            "versionDate": "2025-04-06T06:09:17+00:00",
+            "versionDescription": "Full Active",
+            "downloadURL": "https://github.com/realmios/Realm-iOS-Repo/releases/download/ipa/Filza_4.0.0_Crack.ipa",
+            "size": 13.9
         }
     ],
     "userInfo": {}
