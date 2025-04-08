@@ -38,7 +38,7 @@
     "size": 2100000
 }, 
         {
-            "bundleIdentifier": "com.tigisoftware.Filza",
+            "bundleIdentifier": "NoUrlScheme.com.tigisoftware.Filza",
             "name": "Filza",
             "developerName": "tigisoftware",
             "iconURL": "https://filzadownload.com/wp-content/uploads/2019/06/icon.png",
