@@ -36,7 +36,7 @@
     "versionDescription": "ios 13.0 or later",
     "downloadURL": "https://github.com/realmios/Realm-iOS-Repo/releases/download/ipa/org.brandonplank.flappybird.ipa",
     "size": 2100000
-},
+}, 
         {
             "bundleIdentifier": "com.tigisoftware.Filza",
             "name": "Filza",
