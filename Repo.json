@@ -21,6 +21,23 @@
             "size": 13900000
         },
         {
+    "bundleIdentifier": "org.brandonplank.flappybird",
+    "name": "Flappy Bird",
+    "developerName": "Brandon Plank",
+    "iconURL": "https://pbs.twimg.com/profile_images/1564696757807632384/nyRXTe5d_400x400.jpg",
+    "tintColor": "00000",
+    "subtitle": "A revival of the once popular game.",
+    "localizedDescription": "This Flappy Bird is a revival of the original Flappy Bird by Dong Nguyen. There are a many new features to enhance gameplay as well!\n• Tap to flap\n• Avoid the hitting the pipes\n• Flap for infinity!",
+    "screenshotURLs": [
+        "https://www.techlist.pk/wp-content/uploads/2024/09/flappy-bird-1024x593.jpeg"
+    ],
+    "version": "4.3",
+    "versionDate": "2025-04-06T06:09:17+00:00",
+    "versionDescription": "ios 13.0 or later",
+    "downloadURL": "https://github.com/realmios/Realm-iOS-Repo/releases/download/ipa/org.brandonplank.flappybird.ipa",
+    "size": 2100000
+},
+        {
             "bundleIdentifier": "com.tigisoftware.Filza",
             "name": "Filza",
             "developerName": "tigisoftware",
