@@ -25,7 +25,7 @@
     "name": "Flappy Bird",
     "developerName": "Brandon Plank",
     "iconURL": "https://pbs.twimg.com/profile_images/1564696757807632384/nyRXTe5d_400x400.jpg",
-    "tintColor": "00000",
+    "tintColor": "000000",
     "subtitle": "A revival of the once popular game.",
     "localizedDescription": "This Flappy Bird is a revival of the original Flappy Bird by Dong Nguyen. There are a many new features to enhance gameplay as well!\n• Tap to flap\n• Avoid the hitting the pipes\n• Flap for infinity!",
     "screenshotURLs": [
